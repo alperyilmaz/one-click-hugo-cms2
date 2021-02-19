@@ -1,8 +1,11 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Making sense of the SCAA’s new Flavor Wheel
+date: {}
+description: >-
+  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
+  tasters, has been revised for the first time this year.
 image: /img/blog-flavor_wheel.jpg
+published: false
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
@@ -26,4 +29,14 @@ Coffee cupping, or coffee tasting, is the practice of observing the tastes and a
 
 The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
 
-coffee makes me happy 
+coffee makes me happy
+
+How to Use the Coffee Taster's Flavor Wheel in 8 Steps
+Step 1: Take it All In.
+Step 2: Taste some Coffee.
+Step 3: Start at the Center.
+Step 4: Read the Lexicon.
+Step 5: Check out some References.
+Step 6: Start at the Center Again.
+Step 7: Use your Words.
+Step 8: Study the Colors.
