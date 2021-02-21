@@ -1,6 +1,6 @@
 ---
-title: New post from Gtihub
-date: {}
+title: New post from Github
+date: 2021-02-19T19:04:10.000Z
 description: >-
   This is from Github. Prose didn't allow metadata insertion :( sad!
 image: /img/blog-chemex.jpg
